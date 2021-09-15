@@ -4,7 +4,7 @@ A clone of the [zomato website](https://www.zomato.com) made using zomato's [pub
 
 ### Web hosting
 
-The project has been hosted on [Heroku](http://bit.ly/swagnikdutta_zomato)
+
 
 ### Features
 
